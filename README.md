@@ -79,22 +79,6 @@ Projeto de desenvolvimento backend utilizando **.NET, DDD, SOLID e PostgreSQL**.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevDonatoDeVellis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDonatoDeVellis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=DevDonatoDeVellis&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
 ## 🌱 Objetivos atuais
 
 - Aprofundar conhecimentos em .NET e arquitetura de software.
